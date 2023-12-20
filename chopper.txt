@@ -1,2 +1,3 @@
 - Next JS
 - Tailwind CSS
+- Typescript
